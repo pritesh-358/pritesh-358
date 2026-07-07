@@ -52,7 +52,7 @@ I am passionate about:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pritesh-358&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pritesh-358&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ## 📫 Connect With Me
