@@ -24,6 +24,13 @@ I am passionate about:
 - 💻 Python
 
 ---
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,githubactions,python,bash,vscode,postman,mongodb,mysql&perline=8" />
+
+</p>
 
 ## 📚 Currently Learning
 
