@@ -59,10 +59,10 @@ I am passionate about:
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,githubactions,python,php,mysql,bash,vscode,postman" />
 </p>
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritesh-358&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pritesh-358&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
 </p>
 
 ## 📫 Connect With Me
