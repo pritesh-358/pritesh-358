@@ -1,3 +1,4 @@
+<img width="3584" height="1184" alt="Gemini_Generated_Image_ktngsnktngsnktng" src="https://github.com/user-attachments/assets/e3ebb723-51b2-4615-ac72-14a961fc22d0" />
 <p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00C4FF&center=true&vCenter=true&random=false&width=900&lines=Hi+%F0%9F%91%8B+I'm+Pritesh+Kumar+Thamke;DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes;Terraform;Linux;GitHub+Actions;Always+Learning+New+Technologies" />
