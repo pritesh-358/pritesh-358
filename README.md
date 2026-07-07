@@ -65,6 +65,4 @@ I am passionate about:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritesh-358&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 📫 Connect With Me
 
-Coming Soon...
