@@ -48,11 +48,11 @@ I am passionate about:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritesh-358&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pritesh-358&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh-358&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pritesh-358&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 Connect With Me
